@@ -123,22 +123,6 @@ I'm an *Embedded Systems and Machine Learning Engineer* with a strong background
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Kaif-Git28/Dark_Pattern">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=Dark_Pattern&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Kaif-Git28/Smart-Contact-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaif-Git28&repo=Smart-Contact-Manager&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
 ## 🎓 Education
 
 - *B.Tech in Electronics & Communication* – Vishwakarma Institute Of Technology (2022–2025)  
